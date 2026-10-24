@@ -1,0 +1,7 @@
+from_label,from_id,to_label,to_id
+RiskEvent,RSK01,Country,TW
+RiskEvent,RSK02,Country,CN
+RiskEvent,RSK02,Country,VN
+RiskEvent,RSK03,Country,CN
+RiskEvent,RSK04,Country,DE
+RiskEvent,RSK05,Supplier,SUP015

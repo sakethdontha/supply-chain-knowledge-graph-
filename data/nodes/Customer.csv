@@ -1,0 +1,51 @@
+id,name,segment,region
+CUS001,Customer 001,Home Improvement,Southeast
+CUS002,Customer 002,Regional Distributor,Southeast
+CUS003,Customer 003,Home Improvement,Midwest
+CUS004,Customer 004,Specialty Retail,Southwest
+CUS005,Customer 005,Home Improvement,Southeast
+CUS006,Customer 006,Regional Distributor,Southeast
+CUS007,Customer 007,E-Commerce,Southwest
+CUS008,Customer 008,Specialty Retail,Southwest
+CUS009,Customer 009,Specialty Retail,Southeast
+CUS010,Customer 010,Regional Distributor,Northeast
+CUS011,Customer 011,Home Improvement,Midwest
+CUS012,Customer 012,Home Improvement,Midwest
+CUS013,Customer 013,Big Box Retail,West
+CUS014,Customer 014,Big Box Retail,West
+CUS015,Customer 015,Specialty Retail,Midwest
+CUS016,Customer 016,Home Improvement,Northeast
+CUS017,Customer 017,E-Commerce,Midwest
+CUS018,Customer 018,Big Box Retail,Midwest
+CUS019,Customer 019,Home Improvement,Midwest
+CUS020,Customer 020,E-Commerce,West
+CUS021,Customer 021,E-Commerce,Southeast
+CUS022,Customer 022,E-Commerce,Southwest
+CUS023,Customer 023,Regional Distributor,West
+CUS024,Customer 024,Specialty Retail,Southwest
+CUS025,Customer 025,Specialty Retail,West
+CUS026,Customer 026,Home Improvement,Northeast
+CUS027,Customer 027,E-Commerce,Southwest
+CUS028,Customer 028,Big Box Retail,Southwest
+CUS029,Customer 029,Regional Distributor,Northeast
+CUS030,Customer 030,Home Improvement,West
+CUS031,Customer 031,Big Box Retail,Northeast
+CUS032,Customer 032,Specialty Retail,Southeast
+CUS033,Customer 033,Home Improvement,Southwest
+CUS034,Customer 034,Regional Distributor,Southeast
+CUS035,Customer 035,Big Box Retail,Northeast
+CUS036,Customer 036,Home Improvement,Southeast
+CUS037,Customer 037,Big Box Retail,West
+CUS038,Customer 038,Specialty Retail,West
+CUS039,Customer 039,Regional Distributor,Southwest
+CUS040,Customer 040,Specialty Retail,West
+CUS041,Customer 041,Big Box Retail,Southwest
+CUS042,Customer 042,Specialty Retail,Midwest
+CUS043,Customer 043,Home Improvement,West
+CUS044,Customer 044,Regional Distributor,West
+CUS045,Customer 045,E-Commerce,Southeast
+CUS046,Customer 046,Regional Distributor,Southeast
+CUS047,Customer 047,Home Improvement,Southeast
+CUS048,Customer 048,Specialty Retail,Midwest
+CUS049,Customer 049,Big Box Retail,Midwest
+CUS050,Customer 050,Regional Distributor,Southwest

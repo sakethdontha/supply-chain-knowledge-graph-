@@ -1,0 +1,6 @@
+id,type,description,severity,start_date
+RSK01,Typhoon,Port closures and factory shutdowns,4,2026-09-18
+RSK02,Port Congestion,Vessel backlog at major export ports,3,2026-09-02
+RSK03,Tariff Increase,New import tariff on electronic components,3,2026-08-15
+RSK04,Labor Strike,Rail and trucking strike,2,2026-09-25
+RSK05,Supplier Bankruptcy Watch,Credit downgrade of a key supplier,4,2026-09-28

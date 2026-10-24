@@ -1,0 +1,31 @@
+from_label,from_id,to_label,to_id,material
+Supplier,SUP029,Supplier,SUP018,Copper
+Supplier,SUP029,Supplier,SUP003,Resin
+Supplier,SUP030,Supplier,SUP015,Steel Coil
+Supplier,SUP030,Supplier,SUP023,Resin
+Supplier,SUP030,Supplier,SUP020,Copper
+Supplier,SUP030,Supplier,SUP016,Steel Coil
+Supplier,SUP031,Supplier,SUP023,Resin
+Supplier,SUP031,Supplier,SUP028,Paper Pulp
+Supplier,SUP031,Supplier,SUP015,Copper
+Supplier,SUP032,Supplier,SUP026,Paper Pulp
+Supplier,SUP032,Supplier,SUP021,Rare Earth Magnets
+Supplier,SUP032,Supplier,SUP019,Copper
+Supplier,SUP033,Supplier,SUP004,Copper
+Supplier,SUP033,Supplier,SUP018,Steel Coil
+Supplier,SUP033,Supplier,SUP008,Rare Earth Magnets
+Supplier,SUP033,Supplier,SUP021,Copper
+Supplier,SUP034,Supplier,SUP002,Copper
+Supplier,SUP035,Supplier,SUP020,Lithium Cells
+Supplier,SUP035,Supplier,SUP024,Steel Coil
+Supplier,SUP035,Supplier,SUP027,Silicon Wafers
+Supplier,SUP036,Supplier,SUP015,Paper Pulp
+Supplier,SUP037,Supplier,SUP023,Lithium Cells
+Supplier,SUP037,Supplier,SUP013,Lithium Cells
+Supplier,SUP037,Supplier,SUP009,Silicon Wafers
+Supplier,SUP038,Supplier,SUP003,Paper Pulp
+Supplier,SUP038,Supplier,SUP020,Steel Coil
+Supplier,SUP038,Supplier,SUP002,Lithium Cells
+Supplier,SUP038,Supplier,SUP014,Steel Coil
+Supplier,SUP039,Supplier,SUP003,Copper
+Supplier,SUP040,Supplier,SUP025,Paper Pulp

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supply-chain-graph": {
+      "command": "C:\\Users\\YOUR_NAME\\supply-chain-knowledge-graph\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\YOUR_NAME\\supply-chain-knowledge-graph\\server.py"]
+    }
+  }
+}

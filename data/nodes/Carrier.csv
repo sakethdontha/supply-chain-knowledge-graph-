@@ -1,0 +1,7 @@
+id,name,mode
+CAR01,Interstate Freight,Truckload
+CAR02,RapidParcel,Parcel
+CAR03,BlueLine LTL,LTL
+CAR04,SwiftHaul Logistics,Truckload
+CAR05,Gulf Intermodal,Intermodal
+CAR06,MetroExpress,Parcel

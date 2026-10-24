@@ -1,0 +1,13 @@
+id,name,region,risk_score
+US,United States,North America,2
+MX,Mexico,North America,4
+CA,Canada,North America,1
+CN,China,Asia,6
+TW,Taiwan,Asia,7
+VN,Vietnam,Asia,5
+IN,India,Asia,4
+MY,Malaysia,Asia,4
+DE,Germany,Europe,2
+PL,Poland,Europe,3
+BR,Brazil,South America,5
+KR,South Korea,Asia,3

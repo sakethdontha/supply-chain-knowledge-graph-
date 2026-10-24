@@ -1,0 +1,53 @@
+id,name,category,unit_cost_usd,critical
+PRT001,Microcontroller A,Electronics,68.13,True
+PRT002,Microcontroller B,Electronics,9.64,True
+PRT003,Power Board A,Electronics,16.61,True
+PRT004,Power Board B,Electronics,45.77,True
+PRT005,Sensor Module A,Electronics,12.26,True
+PRT006,Sensor Module B,Electronics,15.92,True
+PRT007,Display Panel A,Electronics,39.54,True
+PRT008,Display Panel B,Electronics,74.38,True
+PRT009,Wiring Harness A,Electronics,6.78,True
+PRT010,Wiring Harness B,Electronics,68.76,True
+PRT011,Battery Pack A,Electronics,72.81,True
+PRT012,Battery Pack B,Electronics,8.68,True
+PRT013,Motor Driver A,Electronics,55.57,True
+PRT014,Motor Driver B,Electronics,46.13,True
+PRT015,Steel Bracket A,Mechanical,1.65,False
+PRT016,Steel Bracket B,Mechanical,8.29,False
+PRT017,Aluminum Housing A,Mechanical,64.15,False
+PRT018,Aluminum Housing B,Mechanical,20.4,False
+PRT019,Drive Shaft A,Mechanical,34.78,False
+PRT020,Drive Shaft B,Mechanical,41.12,False
+PRT021,Bearing Set A,Mechanical,73.55,False
+PRT022,Bearing Set B,Mechanical,76.75,False
+PRT023,Gear Assembly A,Mechanical,14.33,False
+PRT024,Gear Assembly B,Mechanical,0.58,False
+PRT025,Fastener Kit A,Mechanical,33.43,False
+PRT026,Fastener Kit B,Mechanical,78.78,False
+PRT027,Hinge A,Mechanical,66.82,False
+PRT028,Hinge B,Mechanical,24.53,False
+PRT029,Injection Molded Cover A,Plastics,59.33,False
+PRT030,Injection Molded Cover B,Plastics,62.2,False
+PRT031,Control Knob A,Plastics,66.67,False
+PRT032,Control Knob B,Plastics,56.39,False
+PRT033,Seal Ring A,Plastics,41.57,False
+PRT034,Seal Ring B,Plastics,16.47,False
+PRT035,Base Tray A,Plastics,18.82,False
+PRT036,Base Tray B,Plastics,5.35,False
+PRT037,Corrugated Box A,Packaging,62.64,False
+PRT038,Corrugated Box B,Packaging,5.56,False
+PRT039,Foam Insert A,Packaging,26.93,False
+PRT040,Foam Insert B,Packaging,4.64,False
+PRT041,Pallet Wrap A,Packaging,40.74,False
+PRT042,Pallet Wrap B,Packaging,78.18,False
+PRT043,Label Set A,Packaging,45.33,False
+PRT044,Label Set B,Packaging,5.21,False
+PRT045,Copper Coil A,Raw Material,43.36,True
+PRT046,Copper Coil B,Raw Material,72.42,True
+PRT047,Rubber Gasket A,Raw Material,6.2,True
+PRT048,Rubber Gasket B,Raw Material,6.15,True
+PRT049,Glass Panel A,Raw Material,73.31,True
+PRT050,Glass Panel B,Raw Material,34.56,True
+PRT051,Insulation Foam A,Raw Material,80.06,True
+PRT052,Insulation Foam B,Raw Material,48.59,True
